@@ -1,0 +1,84 @@
+
+
+
+body {
+	background: #F4F4F4;
+}
+
+p,
+h2
+{font-family: roboto;
+
+}
+p{width: 400px;
+	font-size: 12pt;
+}
+.container {
+	
+	width: 800px;
+	height: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	background: #fff;
+	overflow: scroll;
+}
+
+.caja_1 {
+	position: relative;
+	width: 750px;
+	background: #fff;
+	}
+
+.caja_2 {
+	position: relative;
+	width: 400px;
+	background: #fff;
+	float: left;
+}
+.caja_3 {
+	position: relative;
+	width: 400px
+	background: #fff;
+	float: right;
+}
+
+#imagen0{
+	position: relative;
+	width: 800px;
+}
+
+
+#imagen1{position: relative;
+		width:300px;
+		left: 100px;
+		
+}
+
+#imagen2{position: relative;
+		width: 300px;
+				
+}
+
+
+.footer{
+	position: relative;
+	text-align: center;
+	width: 800px;
+	height: 200px;
+	padding: 10px;
+	margin-bottom: 40px;
+	background-color: green;
+	color: black;
+	
+}
+.adriana{
+	position: relative;
+	font-family: 'roboto', cursive, ;
+	font-size: 8pt;
+	color: white;
+	text-align: center;
+	width: 800px;
+	height: 100px;
+	margin-bottom: 40px;
+	color: black;
+}
